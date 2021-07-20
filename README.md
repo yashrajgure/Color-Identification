@@ -3,3 +3,6 @@ This project was done as a part of my internship at The Spark Foundation - Gradu
 
 # Libraries Used
 pandas, opencv
+
+# Working Video
+The working of the project can be seen in this [video](https://youtu.be/US_BMjTiJHU)
